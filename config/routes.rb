@@ -11,6 +11,8 @@ Bp::Application.routes.draw do
       get 'home'
       get 'resume'
       get 'contact'
+      get 'project'
+      get 'about'
     end
   end
 end

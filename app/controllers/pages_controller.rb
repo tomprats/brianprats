@@ -5,6 +5,9 @@ class PagesController < ApplicationController
   def resume
   end
 
-  def contact
+  def project
+  end
+
+  def about
   end
 end
